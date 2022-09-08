@@ -1,6 +1,6 @@
 # Hi, I'm Sathya 👋🏻 🕶
 
-<img src="https://media-exp1.licdn.com/dms/image/C5103AQHxNADeLTTxlQ/profile-displayphoto-shrink_800_800/0/1576506811013?e=1645660800&v=beta&t=BGVIYKXJAJb5cy39Sk1cbzv3QfdeeApwU5M9TC6XVEE" align="left"  alt="photo of sathya">
+<img src="https://avatars.githubusercontent.com/u/36219956?s=400&u=bc38fb15511d393ff24c9fe70935527c7104f0f6&v=4" align="left"  alt="photo of sathya">
 
 
 
